@@ -3,6 +3,8 @@
 hello world program written in BrainFuck
 
 # Usage
+Go into the project directory and excecute the following command in your terminal
+
 ```console
 python brainfuck.py hello_warld.bf 
 ```
